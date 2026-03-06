@@ -163,7 +163,7 @@ sequenceDiagram
 
 ## 📸 Screenshots
 
-![NexRide Display](assets/dashboard.png)
+![NexRide Display](assets/ride-hailing.png)
 *Figure: NexRide Rider and Driver Dashboards featuring real-time map integration and trip controls.*
 
 ---
